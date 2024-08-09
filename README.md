@@ -1,5 +1,7 @@
 ## Title: Application of Darcy's law in a 2D porous embankment.
 
+ Please click here to view the [PDF](https://github.com/RegisKonan/UFHB_master_Fluid_mechanics/blob/de3010f678c0c415a31febce928c854c6a36ac49/Memoire_Djaha_Regis.pdf).
+ 
 ### Abstract: 
 
 Given the population growth expected in the coming years and the rapid rate at which we are consuming water resources, the UN predicts that by 2025, 1.8 billion people will be living in countries or regions affected by total water scarcity and about 5 billion in regions where it will be difficult to meet all freshwater needs, the future remains uncertain. The objective of this work is to apply Darcy’s law, which is the most fundamental law for flows in porous media, to a porous
