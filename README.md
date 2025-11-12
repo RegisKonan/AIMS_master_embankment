@@ -31,5 +31,5 @@ My individual contribution to this research included the formulation of the math
 In conclusion, this thesis provides a clear and generalizable framework for evaluating flow in porous embankments under various configurations. The results can serve as a reference for the design and analysis of hydraulic structures, flood control systems, and groundwater management. Future work could extend this approach to transient flow conditions or implement finite element simulations to complement the analytical findings.
 
 ### Courses: 
-Classical Mechanics, Operations research, Partial Differential Equations, Thermodynamics and Physics of the Atmosphere, Climate Dynamics, Climate Research Methods, Climate Modeling and Climate
-Change, Database Management and Data management, Actuarial Mathematics, Numerical Methods for Climate Science, Data Assimilation for Climate Science.
+Classical Mechanics, Operations Research, Partial Differential Equations, Thermodynamics and Physics of the Atmosphere, Climate Dynamics, Climate Research Methods, Climate Modeling and Climate
+Change, Database Management and Data Management, Actuarial Mathematics, Numerical Methods for Climate Science, Data Assimilation for Climate Science.
